@@ -1,0 +1,6 @@
+Rencana-Channel
+-Membuat Video Java script 
+ + ES6
+ +FramWork JavaScript
+-Interview
+-Vlog 
