@@ -2,6 +2,10 @@ Rencana-Channel
 -Membuat Video Java script 
  + ES6
  +FramWork JavaScript
+  ^Vue
 -Interview
 -Vlog 
 -Fundamental Data Dasar
+-PHP Frameworks
+ ^Laravel
+-Phyton
